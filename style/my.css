@@ -1,0 +1,232 @@
+
+body{
+	margin: 0;
+}
+a,a:hover,a:focus{
+	text-decoration: none;
+	color: #ffff;
+}
+.text{
+	font-size: 14px;
+	color: #272727;
+}
+.text-subtitles__contact-us{
+	font-weight: 450;
+	font-size: 22px;
+	line-height: 38px;
+	color: #59AE6B;
+}
+span{
+	color: #59AE6B;
+}
+button:focus{
+	outline: none;
+}
+input{
+	outline: 0;
+    outline-offset: 0;
+    padding-left: 26px;
+    border: none;
+}
+.button{
+	background: #59AE6B;
+	border-radius: 4px;
+	text-align: center;
+	padding: 20px 65px 21px 65px;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+.text-subtitles{
+	font-weight: 600;
+	font-size: 36px;
+	line-height: 44px;
+	color: #272727;
+}
+.text-description{
+	font-weight: 450;
+	font-size: 18px;
+	line-height: 30px;
+	color: #FFFFFF;
+}
+.header-text{
+	font-weight: 600;
+	font-size: 45px;
+	line-height: 68px;
+	color: #fff;
+}
+/*Header Start*/
+header{
+	min-height: 100vh;
+	background: url(../img/background-header.jpg)no-repeat;
+	background-size: cover;
+	margin-bottom: 200px;
+}
+.header__header-text{
+	padding-top: 210px;
+	padding-bottom: 40px;
+}
+.nav{
+	padding-top: 60px;
+}
+.header__nav_text{
+	color: #ffff;
+}
+.header__nav_wats-app-viber{
+	padding-bottom: 15px;
+}
+.header__nav_text-daily{
+	font-size: 12px;
+	color: #F5F5F5;
+}
+.contact-us-form{
+	margin-top: 126px;
+	background: #ffff;
+	border: 8px solid #F5F5F5;
+	box-sizing: border-box;
+	border-radius: 10px;
+}
+.contact-us-form__content{
+	padding: 64px 54px 64px 54px;
+}
+.text-subtitles__contact-us{
+	padding-bottom: 35px;
+}
+.text-contact-us img{
+	padding-right: 8px;
+}
+.text-contact-us{
+	margin-bottom: 10px;
+}
+.contact-us__name{
+	margin-top: 44px;
+	margin-bottom: 16px;
+}
+.contact-us__sur-name{
+	margin-bottom: 34px;
+}
+.name-sur-name{
+	width: 380px;
+	height: 65px;
+	background: #F5F5F5;
+	border-radius: 4px;
+}
+.header__info-contact-us{
+	padding-bottom: 250px;
+}
+/*Header End*/
+/*second-block start*/
+.second-block__house-img{
+	margin-top: 100px;
+	width: 100%;
+}
+.text-description__info{
+	margin-top: 24px;
+	margin-bottom: 18px;
+	color: #272727;
+}
+.text-price{
+	color: #C0C0C0;
+	margin-bottom: 40px;
+}
+.all-projects{
+	margin-top: 100px;
+	margin-bottom: 80px;
+	border: 2px solid #59AE6B;
+	box-sizing: border-box;
+	border-radius: 4px;
+	padding: 20px 57px 21px 57px;
+}
+/*second-block end*/
+
+/*fourth-block start*/
+.fourth-block{
+	padding-top: 180px;
+}
+.fourth-block__text_about-us{
+	padding-top: 80px;
+	padding-bottom: 38px;
+}
+.fourth-block__text_image{
+	padding-right: 8px;
+}
+.fourth-block__text_advantages{
+	padding-bottom: 24px;
+}
+.fourth-block__text_summary-of-benefits{
+	padding-top: 38px;
+}
+.fourth-block__header-text{
+	padding-top: 42px;
+	color: #59AE6B;
+}
+.fourth-block__text-numbers{
+	font-size: 12px;
+	padding-right: 30px;
+}
+.img__about-us{
+	width: 100%;
+}
+.fourth-block__text-subtitles{
+	padding-top: 231px;
+	padding-bottom: 105px;
+}
+.text-description__our-advantage{
+	color: #272727;
+	padding-bottom: 125px;
+	padding-top: 25px;
+}
+/*fourth-block end*/
+/*five-block start*/
+.five-block{
+	background: #F5F5F5;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.five-block__contant-box_order{
+	padding-top: 106px;
+}
+.text-description__order{
+	color: #272727;
+	width: 100%;
+}
+.five-block__text-subtitles{
+	padding-bottom: 106px;
+}
+.five-block__image{
+	padding-bottom: 25px;
+}
+/*five-block end*/
+/*six-block start*/
+.six-block__text-subtitles{
+	padding: 180px 0 100px 0;
+}
+.six-block__contact-us-form{
+	margin-top: 32px;
+	background: #ffff;
+	border: 8px solid #F5F5F5;
+	box-sizing: border-box;
+	border-radius: 10px;
+}
+/*six-block end*/
+.footer{
+	padding-top: 80px;
+	margin-top: 205px;
+	background: #F5F5F5;
+}
+.footer__text-description{
+	color: #272727;
+	padding-bottom: 26px;
+}
+.footer__text{
+	color: #A4A4A4;
+
+}
+.footer__watsapp-viber{
+	padding-bottom: 68px;
+}
+.watsapp-footer{
+	padding-right: 20px;
+}
+.footer__tel{
+	color: #59AE6B;
+}
